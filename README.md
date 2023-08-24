@@ -1,7 +1,7 @@
 # Sleeping_project
 Report of sleeping patterns.
 
-The "Sleep Watch" App was used to collect data on my sleeping patterns. This data was collected for three months. The table was created in Excel and imported to SQL for analysis and Power BI for Visualization (Link for Dashboard can be found here: https://github.com/ThaisCooke/Sleeping_project/blob/main/Sleep_Study.png)
+The "Sleep Watch" App was used to collect data on my sleeping patterns. This data was collected for three months. The table was created in Excel and imported to SQL for analysis.
 
 This project is to check the correlation between a good night's sleep and restfulness, and the factors that contribute to a restful night.
 
